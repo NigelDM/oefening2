@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oefening2", "oefening2.cspr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AD3AA14-60D5-4753-9F7A-707D84F77D4E}"
 	ProjectSection(SolutionItems) = preProject
-		A.txt = A.txt
+		B.txt = B.txt
 	EndProjectSection
 EndProject
 Global
